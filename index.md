@@ -13,7 +13,7 @@ I'm a second-year Ph.D. student of the Department of Computer Science, City Univ
 ## Publications
 - **EGFI: drug–drug interaction extraction and generation with fusion of enriched entity and sentence information**
   <br>
-  **Lei Huang**, Jiecong Lin, Xiangtao Li, Linqi Song, Zetian Zheng, Ka-Chun Wong<sup>\*
+  **Lei Huang**, Jiecong Lin, Xiangtao Li, Linqi Song, Zetian Zheng, Ka-Chun Wong
   <br>
   <span style="color:red">**Briefings in Bioinformatics**</span>, Nov. 2021.
   <br>
