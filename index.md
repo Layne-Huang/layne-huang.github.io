@@ -18,7 +18,7 @@ I'm a second-year Ph.D. student of the Department of Computer Science, City Univ
   <span style="color:red">**Briefings in Bioinformatics**</span>, Nov. 2021.
   <br>
   [[Paper](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab451/6425806)] [[Code]()]
-  <br>
+
   
 - **High-throughput single-cell RNA-seq data imputation and characterization with surrogate-assisted automated deep learning**
   <br>
