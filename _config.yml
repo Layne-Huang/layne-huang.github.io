@@ -9,7 +9,7 @@ linkedin:
 avatar: 
 google_analytics: 
 favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon_dark: ./assets/img/logo.png
 description: Lei Huang's homepage.
 canonical: https://layne-huang.github.io/
 remote_theme: yaoyao-liu/minimal-light
