@@ -1,15 +1,15 @@
-title: Ruoqi Liu
+title: Lei Huang
 position: Ph.D. Student
-affiliation: The Ohio State University
-email: liu.7324@osu.edu
-keywords: Ruoqi Liu's homepage
-google_scholar: https://scholar.google.com/citations?user=bScV4D0AAAAJ&hl=en
-github_link: https://github.com/ruoqi-liu/
-linkedin: https://www.linkedin.com/in/ruoqi-liu/
-avatar: ./assets/img/avatar.png
-google_analytics: UA-111540567-4
+affiliation: City University of Hong Kong
+email: lhuang93-c@my.cityu.edu.hk
+keywords: Lei Huang's homepage
+google_scholar: https://scholar.google.com/citations?user=xO1oupAAAAAJ&hl=zh-CN
+github_link: https://github.com/layne-huang/
+linkedin: 
+avatar: 
+google_analytics: 
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: Ruoqi Liu's homepage.
-canonical: https://ruoqi-liu.github.io/
+description: Lei Huang's homepage.
+canonical: https://layne-huang.github.io/
 remote_theme: yaoyao-liu/minimal-light
