@@ -35,10 +35,31 @@ I'm a second-year Ph.D. student of the Department of Computer Science, City Univ
   <span style="color:red">**Briefings in Bioinformatics**</span>, Sep. 2021.
   <br>
   [[Paper](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab334/6370301?searchresult=1)] [[Code](https://github.com/JasonLinjc/deepMotifSyn)]
+  
+- **Metric Learning Based Vision Transformer for Product Matching**
+  <br>
+  **Lei Huang**, Wei Shao, Fuzhou Wang, Weidun Xie, Ka-Chun Wong
+  <br>
+  <span style="color:red">**International Conference on Neural Information Processing**</span>, Dec. 2021.
+  <br>
+  [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92185-9_1)] [[Code]()]
+  
+- **View analysis of personal information leakage and privacy protection in big data era—based on Q method**
+  <br>
+  **Lei Huang**, Jingyi Zhou, Jiecong Lin, Shengli Deng
+  <br>
+  <span style="color:red">**Aslib Journal of Information Management**</span>, Nov. 2021.
+  <br>
+  [[Paper](https://www.emerald.com/insight/content/doi/10.1108/AJIM-05-2021-0144/full/html)] [[Code]()]
  
   
 ## Services
 
 - Conference reviewer: ICA3PP.
 - Journal reviewer: BioData Mining.
+
+## Teaching
+Department of Computer Science, CityU
+- CS4465 Computational Biology and Bioinformatics
+- CS5489 Machine Learning: Algorithms and Applications
 
