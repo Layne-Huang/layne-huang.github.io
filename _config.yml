@@ -6,8 +6,8 @@ keywords: Lei Huang's homepage
 google_scholar: https://scholar.google.com/citations?user=xO1oupAAAAAJ&hl=zh-CN
 github_link: https://github.com/layne-huang/
 linkedin: 
-avatar: ./assets/img/photo1.png
-google_analytics: UA-216510610-1
+avatar: ./assets/img/portrait.png
+# google_analytics: UA-216510610-1
 favicon: ./assets/img/logo.png
 favicon_dark: ./assets/img/logo.png
 description: Lei Huang's homepage.
