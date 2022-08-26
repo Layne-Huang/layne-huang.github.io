@@ -23,9 +23,42 @@ I'm a second-year Ph.D. student of the Department of Computer Science, City Univ
   <br>
   **Lei Huang**, Jiecong Lin, Rui Liu, Zetian Zheng, Lingkuan Meng, Xingjian Chen, Xiangtao Li, Ka-Chun Wong
   <br>
-  <span style="color:red">**Under Review**</span>, Nov. 2021.
+  <span style="color:red">**Under Review**</span>, Aug. 2022.
   <br>
   [[Paper]()] [[Code]()]
+  
+- **Mini-review: Recent advances in post-translational modification site prediction based on deep learning**
+  <br>
+  Lingkuan Meng, Wai-Sum Chan, **Lei Huang**, Lingjing Liu, Xingjian Chen, Weitong Zhang, Fuzhou Wang, Ke Cheng, Hongyan Sun, Ka-Chun Wong
+  <br>
+  <span style="color:red">**Computational and Structural Biotechnology Journal**</span>, Jun. 2022.
+  <br>
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S2001037022002598)] [[Code]()]
+
+- **Towards Better Understanding with Uniformity and Explicit Regularization of Embeddings in Embedding-based Neural Topic Models**
+  <br>
+  Wei Shao, **Lei Huang**, Shuqi Liu, Shihua Ma, Linqi Song
+  <br>
+  <span style="color:red">**International Joint Conference on Neural Networks**</span>, Apr. 2022.
+  <br>
+  [[Paper](https://arxiv.org/abs/2206.07960)] [[Code]()]
+
+- **SRG-vote: Predicting miRNA-gene relationships via embedding and LSTM ensemble**
+  <br>
+  Weidun Xie, Zetian Zheng, Weitong Zhang, **Lei Huang**, Qiuzhen Lin, Ka-Chun Wong
+  <br>
+  <span style="color:red">**IEEE Journal of Biomedical and Health Informatics**</span>, Apr. 2022.
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/9763016)] [[Code]()]
+
+- **Subclass-specific Prognosis and Treatment Efficacy Inference in Head and Neck Squamous Carcinoma**
+  <br>
+  Zetian Zheng, Weidun Xie, Xingjian Chen, Fuzhou Wang, **Lei Huang**, Xiangtao Li, Qiuzhen Lin, Ka-Chun Wong
+  <br>
+  <span style="color:red">**IEEE Journal of Biomedical and Health Informatics**</span>, Apr. 2022.
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/9760150)] [[Code]()]
+
   
 - **EGFI: drug–drug interaction extraction and generation with fusion of enriched entity and sentence information**
   <br>
