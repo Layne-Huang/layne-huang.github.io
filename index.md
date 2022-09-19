@@ -19,6 +19,14 @@ I'm a second-year Ph.D. student of the Department of Computer Science, City Univ
   <br>
   [[Paper](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab451/6425806)] [[Code]()] -->
 
+- **MDM: Molecular Diffusion Model for 3D Molecule Generation**
+  <br>
+  **Lei Huang**, Hengtong Zhang, Tingyang Xu, Ka-Chun Wong
+  <br>
+  <span style="color:red">**Briefings in Bioinformatics**</span>, Sep. 2022.
+  <br>
+  [[Paper]()] [[Code]()]
+  
 - **CoaDTI: Multi-modal co-attention based framework for drug-target interaction annotation**
   <br>
   **Lei Huang**, Jiecong Lin, Rui Liu, Zetian Zheng, Lingkuan Meng, Xingjian Chen, Xiangtao Li, Ka-Chun Wong
