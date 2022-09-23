@@ -23,7 +23,7 @@ I'm a second-year Ph.D. student of the Department of Computer Science, City Univ
   <br>
   **Lei Huang**, Hengtong Zhang, Tingyang Xu, Ka-Chun Wong
   <br>
-  <span style="color:red">**Briefings in Bioinformatics**</span>, Sep. 2022.
+  <span style="color:red">**Arxiv**</span>, Sep. 2022.
   <br>
   [[Paper]()] [[Code]()]
   
