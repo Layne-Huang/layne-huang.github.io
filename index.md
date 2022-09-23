@@ -25,7 +25,7 @@ I'm a second-year Ph.D. student of the Department of Computer Science, City Univ
   <br>
   <span style="color:red">**Arxiv**</span>, Sep. 2022.
   <br>
-  [[Paper]()] [[Code]()]
+  [[Paper](https://arxiv.org/abs/2209.05710)] [[Code]()]
   
 - **CoaDTI: Multi-modal co-attention based framework for drug-target interaction annotation**
   <br>
