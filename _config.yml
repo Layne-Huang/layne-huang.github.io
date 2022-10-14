@@ -7,6 +7,9 @@ google_scholar: https://scholar.google.com/citations?user=xO1oupAAAAAJ&hl=zh-CN
 github_link: https://github.com/layne-huang/
 linkedin: 
 avatar: ./assets/img/portrait.jpg
+school_bachelor: ./assets/img/whu.png
+school_phd: ./assets/img/cityu.png
+internship: ./assets/img/tencent.jpg
 # google_analytics: UA-216510610-1
 favicon: ./assets/img/logo.png
 favicon_dark: ./assets/img/logo.png
