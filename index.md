@@ -7,9 +7,9 @@ layout: homepage
 I'm a second-year Ph.D. student of the Department of Computer Science, City University of Hong Kong, advised by Prof. [Ka-Chun Wong](http://www.cs.toronto.edu/~wkc/). Before that, I received my bachelor's degree from Wuhan University (major in MIS and minor in CS). My research interests includes BioNLP and Machine learning in drug developemnt.  
 
 ## News
+- **[Nov 2022]** Our paper "CoaDTI: Multi-modal co-attention based framework for drug-target interaction annotation" is accepted to Briefings in Bioinformatics
 - **[Mar 2022]** I start my internship in Tencet AI Lab.
-- **[Nov 2021]** Our paper "CoaDTI: Multi-modal co-attention based framework for drug-target interaction annotation" is accepted to Briefings in Bioinformatics 
-
+ 
 ## Publications
 <!-- - **EGFI: drug–drug interaction extraction and generation with fusion of enriched entity and sentence information**
   <br>
