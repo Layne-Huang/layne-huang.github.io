@@ -12,6 +12,13 @@ I'm a third-year Ph.D. student of the Department of Computer Science, City Unive
 - **[Mar 2022]** I start my internship in Tencet AI Lab.
  
 ## Publications
+- **A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets**
+  <br>
+  **Lei Huang**, Tingyang Xu, Yang Yu, Peilin Zhao, Ka-Chun Wong, Hengtong Zhang
+  <br>
+  <span style="color:red">**BioRxiv 2023**</span>, Jan. 2023.
+  <br>
+  [[Paper]([https://arxiv.org/abs/2209.05710](https://www.biorxiv.org/content/10.1101/2023.01.28.526011v1.abstract))] [[Code]()]
 <!-- - **EGFI: drug–drug interaction extraction and generation with fusion of enriched entity and sentence information**
   <br>
   **Lei Huang**, Jiecong Lin, Xiangtao Li, Linqi Song, Zetian Zheng, Ka-Chun Wong
