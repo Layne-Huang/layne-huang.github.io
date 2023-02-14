@@ -16,9 +16,16 @@ I'm a third-year Ph.D. student of the Department of Computer Science, City Unive
   <br>
   **Lei Huang**, Tingyang Xu, Yang Yu, Peilin Zhao, Ka-Chun Wong, Hengtong Zhang
   <br>
-  <span style="color:red">**BioRxiv 2023**</span>, Jan. 2023.
+  <span style="color:red">**BioRxiv 2023**</span>, Feb. 2023.
   <br>
   [[Paper]([https://arxiv.org/abs/2209.05710](https://www.biorxiv.org/content/10.1101/2023.01.28.526011v1.abstract))] [[Code]()]
+- **Enabling Single‐Cell Drug Response Annotations from Bulk RNA‐Seq Using SCAD**
+  <br>
+  Zetian Zheng, Junyi Chen, Xingjian Chen, Lei Huang, Weidun Xie, Qiuzhen Lin, Xiangtao Li, Ka-Chun Wong
+  <br>
+  <span style="color:red">**Advanced Science 2023**</span>, Jan. 2023.
+  <br>
+  [[Paper]([https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202204113))] [[Code]()]
 <!-- - **EGFI: drug–drug interaction extraction and generation with fusion of enriched entity and sentence information**
   <br>
   **Lei Huang**, Jiecong Lin, Xiangtao Li, Linqi Song, Zetian Zheng, Ka-Chun Wong
