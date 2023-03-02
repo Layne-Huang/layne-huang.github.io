@@ -41,7 +41,7 @@ I'm a third-year Ph.D. student of the Department of Computer Science, City Unive
   <br>
   <span style="color:red">**AAAI 2023**</span>, Sep. 2022.
   <br>
-  [[Paper](https://arxiv.org/abs/2209.05710)] [[Code]()]
+  [[Paper](https://arxiv.org/abs/2209.05710)] [[Code](https://github.com/tencent-ailab/MDM)]
   
 - **CoaDTI: Multi-modal co-attention based framework for drug-target interaction annotation**
   <br>
