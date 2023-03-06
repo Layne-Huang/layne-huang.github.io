@@ -4,7 +4,7 @@ layout: homepage
 
 ## Short Biography [<a href="" target="_blank">CV</a>]
 
-I'm a third-year Ph.D. student of the Department of Computer Science, City University of Hong Kong, advised by Prof. [Ka-Chun Wong](http://www.cs.toronto.edu/~wkc/). Before that, I received my bachelor's degree from Wuhan University (major in MIS and minor in CS). My research interests include BioNLP and Machine learning in drug developement.  
+I'm a third-year Ph.D. student of the Department of Computer Science, City University of Hong Kong, advised by Prof. [Ka-Chun Wong](http://www.cs.toronto.edu/~wkc/). Before that, I received my bachelor's degree from Wuhan University (major in MIS and minor in CS). My research interests include BioNLP and Machine learning in drug development.  
 
 ## News
 - **[Nov 2022]** Our paper "MDM: Molecular Diffusion Model for 3D Molecule Generation" is accepted to AAAI2023.
