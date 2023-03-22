@@ -7,6 +7,7 @@ layout: homepage
 I'm a third-year Ph.D. student of the Department of Computer Science, City University of Hong Kong, advised by Prof. [Ka-Chun Wong](http://www.cs.toronto.edu/~wkc/). Before that, I received my bachelor's degree from Wuhan University (major in MIS and minor in CS). My research interests include BioNLP and Machine learning in drug development.  
 
 ## News
+- **[2023]** I start my internship in Alibaba Damo Academy.
 - **[Nov 2022]** Our paper "MDM: Molecular Diffusion Model for 3D Molecule Generation" is accepted to AAAI2023.
 - **[Nov 2022]** Our paper "CoaDTI: Multi-modal co-attention based framework for drug-target interaction annotation" is accepted to Briefings in Bioinformatics
 - **[Mar 2022]** I start my internship in Tencet AI Lab.
@@ -129,7 +130,7 @@ I'm a third-year Ph.D. student of the Department of Computer Science, City Unive
 ## Services
 
 - Conference reviewer: ICA3PP.
-- Journal reviewer: BioData Mining.
+- Journal reviewer: BioData Mining, Briefings in Bioinformatics.
 
 ## Teaching
 Department of Computer Science, CityU
