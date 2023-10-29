@@ -4,7 +4,7 @@ layout: homepage
 
 ## Short Biography [<a href="" target="_blank">CV</a>]
 
-I'm a third-year Ph.D. student of the Department of Computer Science, City University of Hong Kong, advised by Prof. [Ka-Chun Wong](http://www.cs.toronto.edu/~wkc/). Before that, I received my bachelor's degree from Wuhan University (major in MIS and minor in CS). My research interests include BioNLP and Machine learning in drug development.  
+I'm a fourth-year Ph.D. student at the Department of Computer Science, City University of Hong Kong, advised by Prof. [Ka-Chun Wong](http://www.cs.toronto.edu/~wkc/). Before that, I received my bachelor's degree from Wuhan University (major in MIS and minor in CS). My research interests include AIDD (AI for drug design), Bioinformatics, and BioNLP. I am also a big fan of Real Madrid ⚽️. 
 
 ## News
 - **[Jun 2023]** I will join [Prof. Manolis Kellis's](http://compbio.mit.edu/) lab at MIT as a visiting student in September!
