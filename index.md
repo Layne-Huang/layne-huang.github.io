@@ -7,6 +7,7 @@ layout: homepage
 I'm a fourth-year Ph.D. student at the Department of Computer Science, City University of Hong Kong, advised by Prof. [Ka-Chun Wong](http://www.cs.toronto.edu/~wkc/). Before that, I received my bachelor's degree from Wuhan University (major in MIS and minor in CS). My research interests include AIDD (AI for drug design), Bioinformatics, and BioNLP. I am also a big fan of Real Madrid ⚽️. 
 
 ## News
+- **[Nov 2023]** I also joined [Prof. Marinka Zitnik's](https://zitniklab.hms.harvard.edu/) lab at Harvard as a joint visiting student in November!
 - **[Jun 2023]** I will join [Prof. Manolis Kellis's](http://compbio.mit.edu/) lab at MIT as a visiting student in September!
 - **[2023]** I start my internship in Alibaba Damo Academy.
 - **[Nov 2022]** Our paper "MDM: Molecular Diffusion Model for 3D Molecule Generation" is accepted to AAAI2023.
