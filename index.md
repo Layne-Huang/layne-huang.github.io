@@ -22,7 +22,7 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science, City Univ
   <br>
   <span style="color:red">**BioRxiv 2023**</span>, Feb. 2023.
   <br>
-  [[Paper](https://www.biorxiv.org/content/10.1101/2023.01.28.526011v1.abstract)] [[Code]()]
+  [[Paper](https://www.biorxiv.org/content/10.1101/2023.01.28.526011v1.abstract)] [[Code](https://github.com/Layne-Huang/PMDM/tree/main)]
   
 - **Enabling Single‐Cell Drug Response Annotations from Bulk RNA‐Seq Using SCAD**
   <br>
@@ -37,7 +37,7 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science, City Univ
   <br>
   <span style="color:red">**Briefings in Bioinformatics**</span>, Nov. 2021.
   <br>
-  [[Paper](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab451/6425806)] [[Code]()] -->
+  [[Paper](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab451/6425806)] [[Code](https://github.com/Layne-Huang/EGFI)] -->
 
 - **MDM: Molecular Diffusion Model for 3D Molecule Generation**
   <br>
@@ -61,7 +61,7 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science, City Univ
   <br>
   <span style="color:red">**Computational and Structural Biotechnology Journal**</span>, Jun. 2022.
   <br>
-  [[Paper](https://www.sciencedirect.com/science/article/pii/S2001037022002598)] [[Code]()]
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S2001037022002598)]
 
 - **Towards Better Understanding with Uniformity and Explicit Regularization of Embeddings in Embedding-based Neural Topic Models**
   <br>
