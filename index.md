@@ -9,7 +9,8 @@ I'm a fourth-year Ph.D. student at the Department of Computer Science, City Univ
 I am looking for the Post-doc postion. Please do not hesitate to contact me (lhuang93-c@my.cityu.edu.hk; layne_huang@outlook.com) if you are interested in my research.
 
 ## News
-- **[Nov 2024]** Our paper "A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets" is accepted to **Nature Communications**.
+- **[Apr 2024]** Our paper "DiffDTM: A conditional structure-free framework for bioactive molecules generation targeted for dual proteins" is accepted to **IEEE Transcations on Artificial Intelligence**.
+- **[Mar 2024]** Our paper "A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets" is accepted to **Nature Communications**.
 - **[Nov 2023]** I also joined [Prof. Marinka Zitnik's](https://zitniklab.hms.harvard.edu/) lab at Harvard as a joint visiting student in November!
 - **[Jun 2023]** I will join [Prof. Manolis Kellis's](http://compbio.mit.edu/) lab at MIT as a visiting student in September!
 - **[2023]** I start my internship in Alibaba Damo Academy.
