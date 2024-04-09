@@ -4,7 +4,7 @@ layout: homepage
 
 ## Short Biography [<a href="" target="_blank">CV</a>]
 
-I'm a fourth-year Ph.D. student at the Department of Computer Science, City University of Hong Kong, advised by Prof. [Ka-Chun Wong](http://www.cs.toronto.edu/~wkc/). Before that, I received my bachelor's degree from Wuhan University (major in MIS and minor in CS). Now, I am a joint visiting student with [Manolis Kellis](http://compbio.mit.edu/) and Marinka Zitnik(https://zitniklab.hms.harvard.edu/) at MIT and Harvard. My research interests include AIDD (AI for drug design), Bioinformatics, and BioNLP. I am also a big fan of Real Madrid ⚽️. 
+I'm a fourth-year Ph.D. student at the Department of Computer Science, City University of Hong Kong, advised by Prof. [Ka-Chun Wong](http://www.cs.toronto.edu/~wkc/). Before that, I received my bachelor's degree from Wuhan University (major in MIS and minor in CS). Now, I am a joint visiting student with [Manolis Kellis](http://compbio.mit.edu/) and [Marinka Zitnik](https://zitniklab.hms.harvard.edu/) at MIT and Harvard. My research interests include AIDD (AI for drug design), Bioinformatics, and BioNLP. I am also a big fan of Real Madrid ⚽️. 
 
 I am looking for the postdoctoral and faculty postions starting from 2024 Fall. Please do not hesitate to contact me (lhuang93-c@my.cityu.edu.hk; layne_huang@outlook.com) if you are interested in my research.
 
