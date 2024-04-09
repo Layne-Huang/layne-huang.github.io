@@ -6,7 +6,7 @@ layout: homepage
 
 I'm a fourth-year Ph.D. student at the Department of Computer Science, City University of Hong Kong, advised by Prof. [Ka-Chun Wong](http://www.cs.toronto.edu/~wkc/). Before that, I received my bachelor's degree from Wuhan University (major in MIS and minor in CS). My research interests include AIDD (AI for drug design), Bioinformatics, and BioNLP. I am also a big fan of Real Madrid ⚽️. 
 
-I am looking for the Post-doc postion. Please do not hesitate to contact me (lhuang93-c@my.cityu.edu.hk; layne_huang@outlook.com) if you are interested in my research.
+I am looking for the postdoctoral and faculty postions starting from 2024 Fall. Please do not hesitate to contact me (lhuang93-c@my.cityu.edu.hk; layne_huang@outlook.com) if you are interested in my research.
 
 ## News
 - **[Apr 2024]** Our paper "DiffDTM: A conditional structure-free framework for bioactive molecules generation targeted for dual proteins" is accepted to **IEEE Transcations on Artificial Intelligence**.
