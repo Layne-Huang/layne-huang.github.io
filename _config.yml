@@ -12,7 +12,7 @@ school_phd: ./assets/img/cityu.png
 internship: ./assets/img/tencent.jpg
 # google_analytics: UA-216510610-1
 favicon: ./assets/img/logo.png
-favicon_dark: ./assets/img/logo.png
+favicon_dark: ./assets/img/letter-h.png
 description: Lei Huang's homepage.
 canonical: https://layne-huang.github.io/
 remote_theme: yaoyao-liu/minimal-light
