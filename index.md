@@ -4,12 +4,14 @@ layout: homepage
 
 ## Short Biography [<a href="" target="_blank">CV</a>]
 
-I'm a fourth-year Ph.D. student at the Department of Computer Science, City University of Hong Kong, advised by Prof. [Ka-Chun Wong](http://www.cs.toronto.edu/~wkc/). Before that, I received my bachelor's degree from Wuhan University (major in MIS and minor in CS). Now, I am a joint visiting student with Prof. [Manolis Kellis](http://compbio.mit.edu/) and Prof. [Marinka Zitnik](https://zitniklab.hms.harvard.edu/) at MIT and Harvard. My research interests include AIDD (AI for drug design), Bioinformatics, and BioNLP. I am also a big fan of Real Madrid ⚽️. 
+I'm a fourth-year Ph.D. student at the Department of Computer Science, City University of Hong Kong, advised by Prof. [Ka-Chun Wong](http://www.cs.toronto.edu/~wkc/). Before that, I received my bachelor's degree from Wuhan University (major in MIS and minor in CS). I was a joint visiting student with Prof. [Manolis Kellis](http://compbio.mit.edu/) and Prof. [Marinka Zitnik](https://zitniklab.hms.harvard.edu/) at MIT and Harvard. My research interests include AIDD (AI for drug design), Bioinformatics, and BioNLP. I am going to join Prof. [Luca Pinello](http://ec2-3-220-229-138.compute-1.amazonaws.com/people/)'s lab as a postdoc in MGH and Harvard University. I am also a big fan of Real Madrid ⚽️. 
 
-I am looking for the postdoctoral and faculty postions starting from 2024 Fall. Please do not hesitate to contact me (lhuang93-c@my.cityu.edu.hk; layne_huang@outlook.com) if you are interested in my research.
+I am looking for the faculty position starting from 2024 Fall. Please do not hesitate to contact me (lhuang93-c@my.cityu.edu.hk; layne_huang@outlook.com) if you are interested in my research.
 
 ## News
-- **[Apr 2024]** Our paper "A unified conditional diffusion framework for dual protein targets based bioactive molecule generation" is accepted to **IEEE Transcations on Artificial Intelligence**.
+- **[Oct 2024]** I will join join Prof. [Luca Pinello](http://ec2-3-220-229-138.compute-1.amazonaws.com/people/)'s lab as a postdoc in MGH and Harvard University.
+- **[Sep 2024]** Our paper "A versatile informative diffusion model for single-cell ATAC-seq data generation and analysis" is accepted to **NeurIPS 2024**.
+- **[Apr 2024]** Our paper "A unified conditional diffusion framework for dual protein targets based bioactive molecule generation" is accepted to **IEEE Transactions on Artificial Intelligence**.
 - **[Mar 2024]** Our paper "A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets" is accepted to **Nature Communications**.
 - **[Nov 2023]** I also joined [Prof. Marinka Zitnik's](https://zitniklab.hms.harvard.edu/) lab at Harvard as a joint visiting student in November!
 - **[Jun 2023]** I will join [Prof. Manolis Kellis's](http://compbio.mit.edu/) lab at MIT as a visiting student in September!
