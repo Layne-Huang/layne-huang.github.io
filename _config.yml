@@ -12,9 +12,9 @@ school_bachelor: ./assets/img/whu.png
 school_phd: ./assets/img/cityu.png
 internship: ./assets/img/tencent.jpg
 internship1: ./assets/img/damo.jpeg
-visiting: ./assets/img/MIT.jpg
+visiting: ./assets/img/MIT.png
 visiting1: ./assets/img/Harvard.jpeg
-postdoc: ./assets/img/MGH.jpg
+postdoc: ./assets/img/MGH.png
 # google_analytics: UA-216510610-1
 favicon: ./assets/img/letter-h.png
 favicon_dark: ./assets/img/letter-h.png
