@@ -4,7 +4,7 @@ layout: homepage
 
 ## Short Biography [<a href="" target="_blank">CV</a>]
 
-I'm a Postdoctoral Fellow in Prof. [Luca Pinello's](http://ec2-3-220-229-138.compute-1.amazonaws.com/people/) group at Massachusetts General Hospital and Harvard Medical School. Before that, I received my PhD degree at the Department of Computer Science, City University of Hong Kong, advised by Prof. [Ka-Chun Wong](http://www.cs.toronto.edu/~wkc/) and bachelor degree from Wuhan University (major in MIS and minor in CS). I was a joint visiting student with Prof. [Manolis Kellis](http://compbio.mit.edu/) and Prof. [Marinka Zitnik](https://zitniklab.hms.harvard.edu/) at MIT and Harvard. My research interests include AIDD (AI for drug design) and Bioformatics. I am also a big fan of Real Madrid ⚽️. 
+I'm a Postdoctoral Fellow in Prof. [Luca Pinello's](http://ec2-3-220-229-138.compute-1.amazonaws.com/people/) group at Massachusetts General Hospital and Harvard Medical School. Before that, I received my PhD degree at the Department of Computer Science, City University of Hong Kong, advised by Prof. [Ka-Chun Wong](http://www.cs.toronto.edu/~wkc/) and bachelor degree from Wuhan University (major in MIS and minor in CS). I was a joint visiting student with Prof. [Manolis Kellis](http://compbio.mit.edu/) and Prof. [Marinka Zitnik](https://zitniklab.hms.harvard.edu/) at MIT and Harvard. My research interests include AIDD (AI for drug design) and Bioinformatics. I am also a big fan of Real Madrid ⚽️. 
 
 I am looking for the faculty position starting from 2024 Fall. Please do not hesitate to contact me (lhuang93-c@my.cityu.edu.hk; layne_huang@outlook.com) if you are interested in my research.
 
@@ -35,7 +35,13 @@ I am looking for the faculty position starting from 2024 Fall. Please do not hes
   <br>
   <span style="color:red">**Advanced Science 2023**</span>, Jan. 2023.
   <br>
-  [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202204113)] [[Code]()]
+  [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202204113
+        
+        
+        
+        
+        
+        )] [[Code]()]
 <!-- - **EGFI: drug–drug interaction extraction and generation with fusion of enriched entity and sentence information**
   <br>
   **Lei Huang**, Jiecong Lin, Xiangtao Li, Linqi Song, Zetian Zheng, Ka-Chun Wong
