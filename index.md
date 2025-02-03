@@ -35,13 +35,7 @@ I am looking for the faculty position starting from 2024 Fall. Please do not hes
   <br>
   <span style="color:red">**Advanced Science 2023**</span>, Jan. 2023.
   <br>
-  [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202204113
-        
-        
-        
-        
-        
-        )] [[Code]()]
+  [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202204113)] [[Code]()]
 <!-- - **EGFI: drug–drug interaction extraction and generation with fusion of enriched entity and sentence information**
   <br>
   **Lei Huang**, Jiecong Lin, Xiangtao Li, Linqi Song, Zetian Zheng, Ka-Chun Wong
