@@ -6,7 +6,7 @@ layout: homepage
 
 I'm a Postdoctoral Fellow in Prof. [Luca Pinello's](http://ec2-3-220-229-138.compute-1.amazonaws.com/people/) group at Massachusetts General Hospital and Harvard Medical School. Before that, I received my PhD degree at the Department of Computer Science, City University of Hong Kong, advised by Prof. [Ka-Chun Wong](http://www.cs.toronto.edu/~wkc/) and bachelor degree from Wuhan University (major in MIS and minor in CS). I was a joint visiting student with Prof. [Manolis Kellis](http://compbio.mit.edu/) and Prof. [Marinka Zitnik](https://zitniklab.hms.harvard.edu/) at MIT and Harvard. My research interests include AIDD (AI for drug design) and Bioinformatics. I am also a big fan of Real Madrid ⚽️. 
 
-I am looking for the faculty position starting from 2024 Fall. Please do not hesitate to contact me (lhuang93-c@my.cityu.edu.hk; layne_huang@outlook.com) if you are interested in my research.
+I am looking for the faculty position starting from 2024 Fall. Please do not hesitate to contact me (lhuang93-c@my.cityu.edu.hk; layne_huang@outlook.com; lhuang34@mgh.harvard.edu) if you are interested in my research.
 
 ## News
 - **[Oct 2024]** I will join join Prof. [Luca Pinello](http://ec2-3-220-229-138.compute-1.amazonaws.com/people/)'s lab as a postdoc in MGH and Harvard University.
