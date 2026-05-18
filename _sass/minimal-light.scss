@@ -115,7 +115,7 @@ p {
   padding: 8px 12px;
   border-radius: 999px;
   color: #424245;
-  font-size: 0.86rem;
+  font-size: 0.9rem; /* 字体微调变大 */
   font-weight: 560;
   transition: background-color 0.24s cubic-bezier(0.16, 1, 0.3, 1), color 0.24s cubic-bezier(0.16, 1, 0.3, 1), transform 0.24s cubic-bezier(0.16, 1, 0.3, 1);
 }
@@ -201,7 +201,7 @@ p {
 .profile-kicker {
   margin: 0 0 10px;
   color: var(--muted);
-  font-size: 0.7rem;
+  font-size: 0.82rem; /* 放大原先过小的 0.7rem */
   font-weight: 760;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -210,9 +210,9 @@ p {
 .profile-card h1 {
   margin: 0;
   color: var(--ink);
-  font-size: 2.05rem;
+  font-size: 1.85rem; /* 缩小原先过大的 2.05rem */
   font-weight: 760;
-  letter-spacing: -0.055em;
+  letter-spacing: -0.04em;
   line-height: 1;
 }
 
@@ -250,7 +250,7 @@ p {
   border-radius: 999px;
   color: var(--ink);
   background: rgba(255, 255, 255, 0.48);
-  font-size: 0.88rem;
+  font-size: 0.92rem; /* 稍微放大导航字体 */
   font-weight: 560;
   transition: transform 0.24s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.24s cubic-bezier(0.16, 1, 0.3, 1), color 0.24s cubic-bezier(0.16, 1, 0.3, 1);
 }
@@ -324,7 +324,7 @@ p {
 .eyebrow {
   margin: 0 0 14px;
   color: var(--muted);
-  font-size: 0.76rem;
+  font-size: 0.85rem; /* 放大原先过小的 0.76rem 类别标签 */
   font-weight: 720;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -333,27 +333,27 @@ p {
 .hero-statement h1,
 .subpage-hero h1 {
   margin: 0 0 24px;
-  max-width: 17ch;
+  max-width: 20ch;
   color: var(--ink);
-  font-size: clamp(2.4rem, 4.4vw, 4.55rem);
+  font-size: clamp(2.2rem, 3.8vw, 3.6rem); /* 缩小原先夸张的 4.55rem 大字号 */
   font-weight: 740;
-  letter-spacing: -0.062em;
-  line-height: 0.96;
+  letter-spacing: -0.05em;
+  line-height: 1.05;
 }
 
 .hero-statement .lead,
 .subpage-hero p {
   max-width: 720px;
   color: #424245;
-  font-size: clamp(1.25rem, 2vw, 1.62rem);
-  letter-spacing: -0.025em;
-  line-height: 1.25;
+  font-size: clamp(1.15rem, 1.8vw, 1.45rem); /* 缩小引导语，增强层级 */
+  letter-spacing: -0.01em;
+  line-height: 1.4;
 }
 
 .hero-statement p:not(.eyebrow):not(.lead) {
   max-width: 760px;
   color: var(--muted);
-  font-size: 1.02rem;
+  font-size: 1.05rem; /* 稍微放大正文，提升阅读体验 */
   line-height: 1.68;
 }
 
@@ -419,10 +419,10 @@ p {
 .section-label h2 {
   margin: 0;
   color: var(--ink);
-  font-size: clamp(1.55rem, 3vw, 2.55rem);
+  font-size: clamp(1.4rem, 2.5vw, 2.1rem); /* 缩小夸张的栏目标题 */
   font-weight: 720;
-  letter-spacing: -0.045em;
-  line-height: 1.02;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
 }
 
 .work-list,
@@ -463,9 +463,9 @@ p {
   flex-direction: column;
   gap: 6px;
   color: var(--muted);
-  font-size: 0.74rem;
+  font-size: 0.85rem; /* 放大原先过小的期刊年份 0.74rem */
   font-weight: 720;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.05em;
   line-height: 1.35;
   text-transform: uppercase;
 }
@@ -481,10 +481,10 @@ p {
 .split-list h3 {
   margin: 0 0 10px;
   color: var(--ink);
-  font-size: clamp(1.26rem, 2.2vw, 2rem);
+  font-size: clamp(1.15rem, 1.8vw, 1.6rem); /* 适度缩小文章列表大标题 */
   font-weight: 710;
-  letter-spacing: -0.045em;
-  line-height: 1.08;
+  letter-spacing: -0.02em;
+  line-height: 1.25;
 }
 
 .feature-copy p,
@@ -493,7 +493,7 @@ p {
 .split-list p {
   max-width: 760px;
   color: var(--muted);
-  font-size: 1rem;
+  font-size: 1.02rem;
   line-height: 1.62;
 }
 
@@ -507,7 +507,7 @@ p {
 
 .subpage-hero h1 {
   max-width: 15ch;
-  font-size: clamp(2.7rem, 6.4vw, 5.8rem);
+  font-size: clamp(2.4rem, 4.4vw, 4.8rem);
 }
 
 .site-footer {
@@ -735,4 +735,140 @@ pre {
     width: auto;
     padding: 0.4in;
   }
+}
+
+
+/* ==========================================================================
+   Generative AI Pipeline Animation Styles (Apple Light Mode)
+   ========================================================================== */
+
+.ai-pipeline-wrapper {
+  width: 100%;
+  max-width: 720px;
+  margin: 50px 0 20px 0; /* 与上方的按钮和下方的正文保持完美间距 */
+  background: #FFFFFF;
+  border-radius: 24px;
+  padding: 40px 20px;
+  /* 苹果风格极微弱的弥散阴影 */
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.04), 0 2px 4px rgba(0, 0, 0, 0.02);
+  border: 1px solid rgba(0, 0, 0, 0.03);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pipeline-title {
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+.pipeline-svg {
+  width: 100%;
+  max-width: 650px;
+  height: auto;
+  overflow: visible;
+}
+
+/* 基础轨道 */
+.track-line-light {
+  fill: none;
+  stroke: #E5E5EA;
+  stroke-width: 1.5;
+  stroke-linecap: round;
+}
+
+/* 数据流动线 */
+.flow-line-light {
+  fill: none;
+  stroke: #007AFF;
+  stroke-width: 1.5;
+  stroke-linecap: round;
+  stroke-dasharray: 20 180; 
+  animation: flowLight 3s linear infinite;
+}
+
+/* 流动字符 */
+.data-stream-light {
+  font-size: 7px;
+  fill: #007AFF;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  animation: streamFadeLight 3s linear infinite;
+}
+
+@keyframes flowLight {
+  0% { stroke-dashoffset: 200; opacity: 0; }
+  20% { opacity: 1; }
+  80% { opacity: 1; }
+  100% { stroke-dashoffset: 0; opacity: 0; }
+}
+
+@keyframes streamFadeLight {
+  0% { opacity: 0; transform: translateX(-10px); }
+  20% { opacity: 0.8; transform: translateX(0px); }
+  80% { opacity: 0.8; transform: translateX(0px); }
+  100% { opacity: 0; transform: translateX(10px); }
+}
+
+/* AI 内核与节点 */
+.ai-kernel-light {
+  fill: none;
+  stroke: #007AFF;
+  stroke-width: 1.2;
+  stroke-linecap: round;
+  animation: pulseKernelLight 4s ease-in-out infinite;
+}
+
+@keyframes pulseKernelLight {
+  0%, 100% { stroke-width: 1.2; filter: drop-shadow(0 0 2px rgba(0, 122, 255, 0.1)); }
+  50% { stroke-width: 1.8; filter: drop-shadow(0 0 8px rgba(0, 122, 255, 0.3)); }
+}
+
+.network-node-light {
+  fill: #007AFF;
+  stroke: none;
+  opacity: 0.2;
+  animation: nodePulseLight 2s ease-in-out infinite;
+}
+
+@keyframes nodePulseLight {
+  0%, 100% { opacity: 0.2; }
+  50% { opacity: 0.6; fill: #5856D6; }
+}
+
+.weight-line-light {
+  fill: none;
+  stroke: #86868B;
+  stroke-width: 0.5;
+  opacity: 0.2;
+}
+
+/* SVG 内文字颜色 */
+.node-text-light {
+  font-size: 12px;
+  fill: var(--ink); 
+  font-weight: 600;
+  text-anchor: middle;
+}
+
+.tech-label-light {
+  font-size: 8px;
+  fill: var(--muted);
+  font-weight: 500;
+  text-anchor: middle;
+}
+
+/* 适配移动端的黑暗模式 */
+@media (prefers-color-scheme: dark) {
+  .ai-pipeline-wrapper {
+    background: rgba(29, 29, 31, 0.72);
+    border-color: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+  }
+  .track-line-light { stroke: #3a3a3c; }
+  .node-text-light { fill: #f5f5f7; }
 }
