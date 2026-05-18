@@ -1,42 +1,24 @@
 <!DOCTYPE html>
-<style>
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-/*   .image {
-    margin: 5px;
-  } */
-  .social-icons {
-    display: flex;
-    align-items: center;
-  }
-</style>
-
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-
     <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MXPDZCT');</script>
-<!-- End Google Tag Manager -->
-    
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MXPDZCT');</script>
+    <!-- End Google Tag Manager -->
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-TCPKXHZJ83"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TCPKXHZJ83"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-TCPKXHZJ83');
+    </script>
 
-  gtag('config', 'G-TCPKXHZJ83');
-</script>
-    
-    <title>{{ site.title }} | {{site.affiliation}}</title>
-
+    <title>{{ site.title }} | {{ site.affiliation }}</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -45,91 +27,96 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta name="keywords" content="{{ site.keywords }}">
     {% endif %}
     {% if site.canonical %}
-    <link rel="canonical" href="{{ site.canonical }}"/>
+    <link rel="canonical" href="{{ site.canonical }}">
     {% endif %}
 
-    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png">
+    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png">
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
 
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
     <link rel="stylesheet" href="./assets/css/style.css">
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MXPDZCT"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-    <div class="wrapper">
-      <header>
-        
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MXPDZCT"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="site-shell">
+      <aside class="profile-card">
         {% if site.avatar %}
-        <a class="image avatar"><img height="120" width="200" img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
+        <a class="avatar" href="#about" aria-label="{{ site.title }}">
+          <img src="{{ site.avatar }}" alt="{{ site.title }}" onContextMenu="return false">
+        </a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1> 
-        
-        {% if site.position %}
-        {{ site.position }}
-        <br>
-        {% endif %}
-        {{ site.affiliation }}
-        {% if site.email %}
-        <br>
-        {{ site.email }}
-        <br>
-        <br>
-        {% endif %}
-        <a class="image"><img height="60" img src="{{site.school_bachelor}}" alt="avatar" onContextMenu="return false" /></a>
-        <a class="image"><img height="60" img src="{{site.school_phd}}" alt="avatar" onContextMenu="return false" /></a>
-        <a class="image"><img height="60" img src="{{site.internship}}" alt="avatar" onContextMenu="return false" /></a>
-        <a class="image"><img height="60" img src="{{site.internship1}}" alt="avatar" onContextMenu="return false" /></a>
-        <a class="image"><img height="60" img src="{{site.visiting}}" alt="avatar" onContextMenu="return false" /></a>
-        <a class="image"><img height="60" img src="{{site.visiting1}}" alt="avatar" onContextMenu="return false" /></a>
-        <a class="image"><img height="60" img src="{{site.postdoc}}" alt="avatar" onContextMenu="return false" /></a>
+        <div class="identity">
+          <p class="profile-kicker">AI for Drug Design</p>
+          <h1>{{ site.title }}</h1>
+          {% if site.position %}
+          <p>{{ site.position }} · {{ site.affiliation }}</p>
+          {% else %}
+          <p>{{ site.affiliation }}</p>
+          {% endif %}
+          {% if site.email %}
+          <a class="email-link" href="mailto:{{ site.email }}">{{ site.email }}</a>
+          {% endif %}
+        </div>
 
-      </header>
-      <section>
+        <nav class="site-nav" aria-label="Primary navigation">
+          <a href="#about">About</a>
+          <a href="#news">News</a>
+          <a href="#publications">Publications</a>
+          <a href="#experience">Experience</a>
+          <a href="#services">Service</a>
+          <a href="#teaching">Teaching</a>
+        </nav>
 
-      {{ content }}
-      <br> 
-       <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=g5IQRasiKxtnmbP3hubjKlHMKnHIiSRx5133_GHqmZI&cl=ffffff&w=a"></script>
-      <br>
-
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
-
-      </section>
-      <footer>
-        <div class="social-icons">
-
+        <div class="social-icons" aria-label="External profiles">
           {% if site.linkedin %}
-          <a href="{{ site.linkedin }}" target="_blank">
-            <i class="fab fa-linkedin-in fa-sm"></i>
+          <a href="{{ site.linkedin }}" target="_blank" rel="noopener" aria-label="LinkedIn">
+            <i class="fab fa-linkedin-in"></i>
           </a>
           {% endif %}
           {% if site.twitter %}
-          <a href="{{ site.twitter }}" target="_blank">
-            <i class="fab fa-twitter fa-sm"></i>
+          <a href="{{ site.twitter }}" target="_blank" rel="noopener" aria-label="Twitter">
+            <i class="fab fa-twitter"></i>
           </a>
           {% endif %}
           {% if site.google_scholar %}
-          <a href="{{ site.google_scholar}}" target="_blank">
-            <i class="ai ai-google-scholar fa-sm" style="font-size:1.6rem"></i>
+          <a href="{{ site.google_scholar }}" target="_blank" rel="noopener" aria-label="Google Scholar">
+            <i class="ai ai-google-scholar"></i>
           </a>
           {% endif %}
-          {% if site.github_link %}            
-          <a href="{{ site.github_link }}" target="_blank">
-            <i class="fab fa-github fa-sm" ></i>
+          {% if site.github_link %}
+          <a href="{{ site.github_link }}" target="_blank" rel="noopener" aria-label="GitHub">
+            <i class="fab fa-github"></i>
           </a>
           {% endif %}
         </div>
-        <br>
-        <br>
-        <br>
-      </footer>
+
+        <div class="institution-grid" aria-label="Affiliations">
+          {% if site.postdoc %}<img src="{{ site.postdoc }}" alt="MGH">{% endif %}
+          {% if site.visiting1 %}<img src="{{ site.visiting1 }}" alt="Harvard">{% endif %}
+          {% if site.visiting %}<img src="{{ site.visiting }}" alt="MIT">{% endif %}
+          {% if site.school_phd %}<img src="{{ site.school_phd }}" alt="City University of Hong Kong">{% endif %}
+          {% if site.school_bachelor %}<img src="{{ site.school_bachelor }}" alt="Wuhan University">{% endif %}
+          {% if site.internship %}<img src="{{ site.internship }}" alt="Tencent AI Lab">{% endif %}
+          {% if site.internship1 %}<img src="{{ site.internship1 }}" alt="Alibaba DAMO Academy">{% endif %}
+        </div>
+      </aside>
+
+      <main class="content">
+        {{ content }}
+        <div class="site-footnote">
+          <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=g5IQRasiKxtnmbP3hubjKlHMKnHIiSRx5133_GHqmZI&cl=ffffff&w=a"></script>
+          <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a>.</small></p>
+        </div>
+      </main>
     </div>
+
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>

@@ -1,8 +1,8 @@
 title: Lei Huang
-position: Postdoc
+position: Research Fellow
 affiliation: Massachusetts General Hospital/Harvard Medical School
-email: layne_huang@outlook.com
-keywords: Lei Huang's homepage
+email: lhuang34@mgh.harvard.edu
+keywords: Lei Huang, AI for drug design, bioinformatics, computational biology, diffusion models
 google_scholar: https://scholar.google.com/citations?user=xO1oupAAAAAJ&hl=zh-CN
 github_link: https://github.com/layne-huang/
 linkedin: https://www.linkedin.com/in/lei-h-3b7202201/
@@ -18,6 +18,6 @@ postdoc: ./assets/img/MGH.png
 # google_analytics: UA-216510610-1
 favicon: ./assets/img/letter-h.png
 favicon_dark: ./assets/img/letter-h.png
-description: Lei Huang's homepage.
+description: Lei Huang is a research fellow working on AI for drug design, generative modeling, and computational biology.
 canonical: https://layne-huang.github.io/
 remote_theme: yaoyao-liu/minimal-light
