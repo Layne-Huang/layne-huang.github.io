@@ -3,15 +3,6 @@ layout: homepage
 ---
 
 <section class="home-hero" id="home">
-  <div class="portrait-stage">
-    <img class="hero-portrait" src="./assets/img/portrait.jpg" alt="Lei Huang" onContextMenu="return false">
-    <div class="identity-strip">
-      <span>MGH / HMS</span>
-      <span>MIT visitor</span>
-      <span>CityU PhD</span>
-    </div>
-  </div>
-
   <div class="hero-statement">
     <p class="eyebrow">Research Fellow · Computational Biology</p>
     <h1>Generative AI for drug design and single-cell biology.</h1>
