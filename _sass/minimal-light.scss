@@ -476,6 +476,12 @@ p {
   padding-top: 0;
 }
 
+.publication-item > h3,
+.publication-item > p,
+.publication-item > .link-row {
+  grid-column: 2;
+}
+
 .feature-meta,
 .pub-meta,
 .timeline-list time {
@@ -518,6 +524,7 @@ p {
 }
 
 .link-row {
+  align-items: center;
   margin-top: 16px;
 }
 
@@ -789,6 +796,12 @@ pre {
     grid-template-columns: 1fr;
     gap: 12px;
     padding: 24px 0;
+  }
+
+  .publication-item > h3,
+  .publication-item > p,
+  .publication-item > .link-row {
+    grid-column: 1;
   }
 
   .feature-meta,
