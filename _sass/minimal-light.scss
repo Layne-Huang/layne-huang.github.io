@@ -591,12 +591,17 @@ p {
 }
 
 .visitor-map-link span {
-  display: none;
-  padding: 0 18px;
-}
-
-.visitor-map-link.map-unavailable span {
-  display: inline;
+  position: absolute;
+  right: 12px;
+  bottom: 10px;
+  z-index: 1;
+  display: inline-flex;
+  max-width: calc(100% - 24px);
+  padding: 6px 9px;
+  border: 1px solid rgba(210, 210, 215, 0.72);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.86);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
 }
 
 code,
@@ -664,6 +669,11 @@ pre {
 
   .research-focus li {
     color: #d2d2d7;
+  }
+
+  .visitor-map-link span {
+    border-color: rgba(255, 255, 255, 0.12);
+    background: rgba(29, 29, 31, 0.82);
   }
 }
 
