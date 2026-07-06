@@ -30,6 +30,43 @@ layout: homepage
   </div>
 </section>
 
+<section class="apple-section" id="news">
+  <div class="section-label">
+    <p class="eyebrow">News</p>
+    <h2>Recent updates.</h2>
+  </div>
+  <div class="timeline-list">
+    <article>
+      <time>Jul 2025</time>
+      <div>
+        <h3>Our Alzheimer's single-cell epigenomics paper is published in <em>Cell</em>.</h3>
+        <p>Single-cell multiregion epigenomic rewiring in Alzheimer's disease progression and cognitive resilience. <a href="https://pubmed.ncbi.nlm.nih.gov/40752494/" target="_blank" rel="noopener">Paper</a></p>
+      </div>
+    </article>
+    <article>
+      <time>Oct 2024</time>
+      <div>
+        <h3>Started as a Research Fellow at MGH / Harvard Medical School.</h3>
+        <p>Joined Prof. Luca Pinello's group to work on generative models for proteins, DNA, and biological element design.</p>
+      </div>
+    </article>
+    <article>
+      <time>Sep 2024</time>
+      <div>
+        <h3>Our single-cell ATAC-seq diffusion model is accepted at NeurIPS 2024.</h3>
+        <p>A versatile informative diffusion model for single-cell ATAC-seq data generation and analysis. <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/50d277e84b2bcbaadcd84548a87e8cc4-Abstract-Conference.html" target="_blank" rel="noopener">Paper</a></p>
+      </div>
+    </article>
+    <article>
+      <time>Mar 2024</time>
+      <div>
+        <h3>Our 3D molecule generation model is published in <em>Nature Communications</em>.</h3>
+        <p>A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets. <a href="https://www.nature.com/articles/s41467-024-46569-1" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Layne-Huang/PMDM/tree/main" target="_blank" rel="noopener">Code</a></p>
+      </div>
+    </article>
+  </div>
+</section>
+
 <section class="apple-section" id="recent-work">
   <div class="section-label">
     <p class="eyebrow">Recent Work</p>
