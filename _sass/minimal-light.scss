@@ -566,29 +566,15 @@ p {
   background: #ffffff;
 }
 
-.visitor-map-link {
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 140px;
-  color: var(--muted);
-  font-size: 0.9rem;
-  font-weight: 650;
-  text-align: center;
+.visitor-map a,
+.visitor-map img {
+  max-width: 100%;
 }
 
-.visitor-map-link:hover {
-  color: var(--accent);
-  text-decoration: none;
-}
-
-.visitor-map-link img {
+.visitor-map img {
   display: block;
-  width: auto;
-  max-width: calc(100% - 24px);
-  height: auto;
-  max-height: 128px;
+  width: 100%;
+  min-height: 140px;
   object-fit: contain;
 }
 
