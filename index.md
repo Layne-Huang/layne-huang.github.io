@@ -44,6 +44,9 @@ layout: homepage
       <div class="feature-copy">
         <h3>Single-cell multiregion epigenomic rewiring in Alzheimer's disease progression and cognitive resilience</h3>
         <p>Collaborative work on disease progression, cognitive resilience, and single-cell epigenomic regulation.</p>
+        <div class="link-row">
+          <a href="https://pubmed.ncbi.nlm.nih.gov/40752494/" target="_blank" rel="noopener">Paper</a>
+        </div>
       </div>
     </article>
 
@@ -55,6 +58,9 @@ layout: homepage
       <div class="feature-copy">
         <h3>A versatile informative diffusion model for single-cell ATAC-seq data generation and analysis</h3>
         <p>A generative framework for chromatin accessibility data, developed during my visiting scholar work with the Kellis Lab.</p>
+        <div class="link-row">
+          <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/50d277e84b2bcbaadcd84548a87e8cc4-Abstract-Conference.html" target="_blank" rel="noopener">Paper</a>
+        </div>
       </div>
     </article>
 

@@ -21,12 +21,14 @@ layout: homepage
       <div class="pub-meta"><span>Cell</span><span>2025</span></div>
       <h3>Single-cell multiregion epigenomic rewiring in Alzheimer's disease progression and cognitive resilience</h3>
       <p>Zunpeng Liu, Shanshan Zhang, ..., <strong>Lei Huang</strong>, ..., Manolis Kellis</p>
+      <div class="link-row"><a href="https://pubmed.ncbi.nlm.nih.gov/40752494/" target="_blank" rel="noopener">Paper</a></div>
     </article>
 
     <article class="publication-item highlight">
       <div class="pub-meta"><span>NeurIPS</span><span>2024</span></div>
       <h3>A versatile informative diffusion model for single-cell ATAC-seq data generation and analysis</h3>
       <p><strong>Lei Huang</strong>, Lei Xiong, Na Sun, Zunpeng Liu, Ka-Chun Wong, Manolis Kellis</p>
+      <div class="link-row"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/50d277e84b2bcbaadcd84548a87e8cc4-Abstract-Conference.html" target="_blank" rel="noopener">Paper</a></div>
     </article>
 
     <article class="publication-item highlight">
@@ -40,19 +42,21 @@ layout: homepage
       <div class="pub-meta"><span>IEEE Transactions on Artificial Intelligence</span><span>2024</span></div>
       <h3>DiffDTM: A conditional structure-free framework for bioactive molecules generation targeted for dual proteins</h3>
       <p><strong>Lei Huang</strong>, Zheng Yuan, Huihui Yan, Rong Sheng, Linjing Liu, Fuzhou Wang, Weidun Xie, Nanjun Chen, Fei Huang, Songfang Huang, Ka-Chun Wong, Yaoyun Zhang</p>
+      <div class="link-row"><a href="https://arxiv.org/abs/2306.13957" target="_blank" rel="noopener">Paper</a></div>
     </article>
 
     <article class="publication-item">
       <div class="pub-meta"><span>Preprint</span><span>2025</span></div>
       <h3>ProteinRPN: Towards Accurate Protein Function Prediction with Graph-Based Region Proposals</h3>
       <p>Shania Mitra, <strong>Lei Huang</strong> (co-first author), Manolis Kellis</p>
+      <div class="link-row"><a href="https://arxiv.org/abs/2409.00610" target="_blank" rel="noopener">Paper</a></div>
     </article>
 
     <article class="publication-item">
       <div class="pub-meta"><span>Advanced Science</span><span>2023</span></div>
       <h3>Enabling Single-Cell Drug Response Annotations from Bulk RNA-Seq Using SCAD</h3>
       <p>Zetian Zheng, Junyi Chen, Xingjian Chen, <strong>Lei Huang</strong>, Weidun Xie, Qiuzhen Lin, Xiangtao Li, Ka-Chun Wong</p>
-      <div class="link-row"><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202204113" target="_blank" rel="noopener">Paper</a></div>
+      <div class="link-row"><a href="https://pubmed.ncbi.nlm.nih.gov/36762572/" target="_blank" rel="noopener">Paper</a></div>
     </article>
 
     <article class="publication-item">
@@ -66,13 +70,14 @@ layout: homepage
       <div class="pub-meta"><span>Briefings in Bioinformatics</span><span>2022</span></div>
       <h3>CoaDTI: Multi-modal co-attention based framework for drug-target interaction annotation</h3>
       <p><strong>Lei Huang</strong>, Jiecong Lin, Rui Liu, Zetian Zheng, Lingkuan Meng, Xingjian Chen, Xiangtao Li, Ka-Chun Wong</p>
+      <div class="link-row"><a href="https://pubmed.ncbi.nlm.nih.gov/36274236/" target="_blank" rel="noopener">Paper</a></div>
     </article>
 
     <article class="publication-item">
       <div class="pub-meta"><span>Briefings in Bioinformatics</span><span>2021</span></div>
       <h3>EGFI: Drug-Drug Interaction Extraction and Generation with Fusion of Enriched Entity and Sentence Information</h3>
       <p><strong>Lei Huang</strong>, Jiecong Lin, Xiangtao Li, Linqi Song, Zetian Zheng, Ka-Chun Wong</p>
-      <div class="link-row"><a href="https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab451/6425806" target="_blank" rel="noopener">Paper</a></div>
+      <div class="link-row"><a href="https://pubmed.ncbi.nlm.nih.gov/34791012/" target="_blank" rel="noopener">Paper</a></div>
     </article>
   </div>
 </section>
