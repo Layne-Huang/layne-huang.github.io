@@ -4,7 +4,7 @@ layout: homepage
 
 <section class="home-hero" id="home">
   <div class="hero-statement">
-    <p class="eyebrow">Research Fellow · Computational Biology</p>
+    <p class="eyebrow">Research Fellow · MGH / Harvard Medical School</p>
     <h1>Generative AI for drug design and single-cell biology.</h1>
     <p class="lead">
       I develop machine learning methods for high-throughput drug discovery, with a focus on de novo molecular design,
@@ -17,10 +17,15 @@ layout: homepage
       and was a visiting scholar with Prof. <a href="http://compbio.mit.edu/" target="_blank" rel="noopener">Manolis Kellis</a>
       at MIT and Prof. <a href="https://zitniklab.hms.harvard.edu/" target="_blank" rel="noopener">Marinka Zitnik</a> at Harvard.
     </p>
+    <ul class="research-focus" aria-label="Research focus">
+      <li>De novo molecular design</li>
+      <li>Drug-target interaction modeling</li>
+      <li>Single-cell omics generation</li>
+    </ul>
     <div class="cta-row">
-      <a class="button primary" href="mailto:lhuang34@mgh.harvard.edu">Contact</a>
-      <a class="button" href="./publications.html">Selected Publications</a>
+      <a class="button primary" href="./publications.html">Selected Publications</a>
       <a class="button" href="https://scholar.google.com/citations?user=xO1oupAAAAAJ&hl=zh-CN" target="_blank" rel="noopener">Google Scholar</a>
+      <a class="button" href="mailto:lhuang34@mgh.harvard.edu">Contact</a>
     </div>
   </div>
 </section>
@@ -28,7 +33,7 @@ layout: homepage
 <section class="apple-section" id="recent-work">
   <div class="section-label">
     <p class="eyebrow">Recent Work</p>
-    <h2>Selected directions from 2024 onward.</h2>
+    <h2>Recent and representative publications.</h2>
   </div>
   <div class="work-list">
     <article class="feature-row">

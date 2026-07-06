@@ -5,10 +5,10 @@
   --ink: #1d1d1f;
   --muted: #6e6e73;
   --line: #d2d2d7;
-  --accent: #0071e3;
-  --accent-dark: #005bb5;
-  --shadow: 0 28px 80px rgba(0, 0, 0, 0.08);
-  --radius: 24px;
+  --accent: #0066c9;
+  --accent-dark: #004f9f;
+  --shadow: 0 22px 56px rgba(0, 0, 0, 0.07);
+  --radius: 18px;
 }
 
 * {
@@ -25,7 +25,7 @@ body {
   overflow-x: hidden;
   color: var(--ink);
   background:
-    radial-gradient(circle at 18% 10%, rgba(0, 113, 227, 0.08), transparent 24rem),
+    radial-gradient(circle at 18% 10%, rgba(0, 102, 201, 0.045), transparent 24rem),
     linear-gradient(180deg, #fbfbfd 0%, var(--bg) 52%, #ffffff 100%);
   font: 17px/1.55 -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", "Helvetica Neue", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -107,6 +107,7 @@ p {
 .top-nav {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   gap: 6px;
   min-width: 0;
 }
@@ -172,10 +173,10 @@ p {
   top: 96px;
   padding: 28px;
   border: 1px solid rgba(210, 210, 215, 0.74);
-  border-radius: 30px;
-  background: rgba(255, 255, 255, 0.76);
+  border-radius: 22px;
+  background: rgba(255, 255, 255, 0.82);
   backdrop-filter: blur(22px) saturate(180%);
-  box-shadow: 0 24px 70px rgba(0, 0, 0, 0.07), inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  box-shadow: var(--shadow), inset 0 1px 0 rgba(255, 255, 255, 0.8);
   text-align: center;
 }
 
@@ -186,7 +187,7 @@ p {
   margin: 0 auto 22px;
   padding: 5px;
   border-radius: 50%;
-  background: linear-gradient(135deg, rgba(0, 113, 227, 0.42), rgba(142, 142, 147, 0.22));
+  background: linear-gradient(135deg, rgba(0, 102, 201, 0.28), rgba(142, 142, 147, 0.2));
 }
 
 .profile-avatar img {
@@ -295,17 +296,17 @@ p {
 .institution-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 10px;
+  gap: 14px 12px;
+  align-items: center;
 }
 
 .institution-grid img {
   width: 100%;
-  height: 52px;
-  padding: 8px;
+  height: 46px;
+  padding: 2px;
   object-fit: contain;
-  border: 1px solid rgba(210, 210, 215, 0.72);
-  border-radius: 14px;
-  background: rgba(255, 255, 255, 0.64);
+  opacity: 0.86;
+  filter: saturate(0.92);
 }
 
 .page-shell {
@@ -357,6 +358,25 @@ p {
   line-height: 1.68;
 }
 
+.research-focus {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 26px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.research-focus li {
+  padding: 7px 11px;
+  border: 1px solid rgba(0, 102, 201, 0.16);
+  border-radius: 999px;
+  color: #424245;
+  background: rgba(255, 255, 255, 0.62);
+  font-size: 0.86rem;
+  font-weight: 650;
+}
+
 .cta-row,
 .link-row {
   display: flex;
@@ -375,7 +395,7 @@ p {
   justify-content: center;
   min-height: 40px;
   padding: 10px 16px;
-  border: 1px solid rgba(0, 113, 227, 0.22);
+  border: 1px solid rgba(0, 102, 201, 0.22);
   border-radius: 999px;
   color: var(--accent);
   background: rgba(255, 255, 255, 0.74);
@@ -559,8 +579,8 @@ pre {
     --ink: #f5f5f7;
     --muted: #a1a1a6;
     --line: #3a3a3c;
-    --accent: #2997ff;
-    --accent-dark: #0071e3;
+    --accent: #5aa9ff;
+    --accent-dark: #2997ff;
     --shadow: 0 28px 80px rgba(0, 0, 0, 0.38);
   }
 
@@ -601,12 +621,16 @@ pre {
   .profile-card,
   .side-nav a,
   .side-social a,
-  .institution-grid img,
   .button,
   .link-row a,
+  .research-focus li,
   .visitor-map {
     background: rgba(29, 29, 31, 0.72);
     border-color: rgba(255, 255, 255, 0.12);
+  }
+
+  .research-focus li {
+    color: #d2d2d7;
   }
 }
 
@@ -664,17 +688,45 @@ pre {
     width: calc(100% - 24px);
   }
 
+  .nav-shell {
+    grid-template-columns: 1fr;
+    gap: 12px;
+    min-height: auto;
+  }
+
+  .brand {
+    justify-items: start;
+  }
+
   .nav-social {
     display: none;
   }
 
+  .top-nav {
+    justify-content: center;
+    gap: 6px 14px;
+    width: 100%;
+    overflow: visible;
+  }
+
   .top-nav a {
-    padding: 8px 10px;
-    white-space: nowrap;
+    padding: 7px 4px;
+    text-align: center;
+    white-space: normal;
+    font-size: 0.86rem;
+  }
+
+  .top-nav a[href="#contact"] {
+    display: none;
   }
 
   .site-frame {
     padding-top: 22px;
+  }
+
+  .profile-card {
+    padding: 24px 22px;
+    border-radius: 20px;
   }
 
   .home-hero {
@@ -695,8 +747,22 @@ pre {
     line-height: 1.36;
   }
 
+  .research-focus li,
+  .button {
+    width: 100%;
+  }
+
   .side-nav {
-    grid-template-columns: 1fr;
+    display: none;
+  }
+
+  .institution-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 12px;
+  }
+
+  .institution-grid img {
+    height: 38px;
   }
 
   .apple-section {

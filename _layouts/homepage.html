@@ -48,7 +48,7 @@
       <div class="nav-shell">
         <a class="brand" href="./" aria-label="{{ site.title }}">
           <span>{{ site.title }}</span>
-          <small>AI for Drug Design</small>
+          <small>{{ site.tagline | default: "Computational Biology" }}</small>
         </a>
         <nav class="top-nav" aria-label="Primary navigation">
           <a href="./">Home</a>
@@ -93,7 +93,7 @@
 
         <nav class="side-nav" aria-label="Section navigation">
           <a href="./">Home</a>
-          <a href="./#recent-work">Recent Work</a>
+          <a href="./#recent-work">Research</a>
           <a href="./publications.html">Publications</a>
           <a href="./experience.html">Experience</a>
           <a href="./service.html">Service</a>
