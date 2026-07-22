@@ -3,8 +3,7 @@ layout: homepage
 ---
 
 <section class="subpage-hero">
-  <p class="eyebrow">Service</p>
-  <h1>Reviewing, teaching, mentoring, and invited research communication.</h1>
+  <h1>Service</h1>
   <p>
     A concise record of academic service and teaching activities, kept separate from the homepage so the first page stays focused.
   </p>
@@ -12,8 +11,7 @@ layout: homepage
 
 <section class="apple-section">
   <div class="section-label">
-    <p class="eyebrow">Academic community</p>
-    <h2>Service</h2>
+    <h2>Academic service</h2>
   </div>
   <div class="split-list">
     <article>
@@ -33,8 +31,7 @@ layout: homepage
 
 <section class="apple-section">
   <div class="section-label">
-    <p class="eyebrow">Teaching and mentoring</p>
-    <h2>Teaching</h2>
+    <h2>Teaching and mentoring</h2>
   </div>
   <div class="split-list">
     <article>

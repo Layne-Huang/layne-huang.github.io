@@ -3,8 +3,7 @@ layout: homepage
 ---
 
 <section class="subpage-hero">
-  <p class="eyebrow">Experience</p>
-  <h1>Appointments and training across academic labs and industrial drug discovery teams.</h1>
+  <h1>Experience</h1>
   <p>
     My work has moved between computational biology, generative modeling, and applied drug discovery,
     with appointments at MGH, Harvard Medical School, MIT, City University of Hong Kong, AI ViVo, Alibaba DAMO Academy, and Tencent AI Lab.
@@ -13,8 +12,7 @@ layout: homepage
 
 <section class="apple-section">
   <div class="section-label">
-    <p class="eyebrow">Appointments</p>
-    <h2>Professional Experience</h2>
+    <h2>Professional experience</h2>
   </div>
   <div class="timeline-list">
     <article>
@@ -57,8 +55,7 @@ layout: homepage
 
 <section class="apple-section">
   <div class="section-label">
-    <p class="eyebrow">Education</p>
-    <h2>Academic Training</h2>
+    <h2>Academic training</h2>
   </div>
   <div class="timeline-list">
     <article>
