@@ -111,7 +111,9 @@ layout: homepage
       <div class="feature-meta">
         <span>NeurIPS</span>
         <span>2024</span>
-        <img class="venue-mark venue-mark--neurips" src="./assets/img/venues/neurips-logo.svg" alt="NeurIPS logo">
+        <div class="venue-mark venue-mark--neurips" role="img" aria-label="NeurIPS conference mark">
+          <img src="./assets/img/venues/neurips-logo.svg" alt="">
+        </div>
       </div>
       <div class="feature-copy">
         <h3>A versatile informative diffusion model for single-cell ATAC-seq data generation and analysis</h3>
@@ -130,7 +132,9 @@ layout: homepage
       <div class="feature-meta">
         <span>Nature Communications</span>
         <span>2024</span>
-        <img class="venue-mark venue-mark--nature" src="./assets/img/venues/nature-communications-logo.svg" alt="Nature Communications logo">
+        <div class="venue-mark venue-mark--nature" role="img" aria-label="Nature Communications journal mark">
+          <img src="./assets/img/venues/nature-communications-logo.svg" alt="">
+        </div>
       </div>
       <div class="feature-copy">
         <h3>A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization</h3>

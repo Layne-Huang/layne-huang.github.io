@@ -381,18 +381,43 @@ p {
 }
 
 .venue-mark--cover {
-  width: 52px;
-  height: 68px;
+  width: 82px;
+  height: 110px;
 }
 
 .venue-mark--neurips {
-  width: 30px;
-  height: 30px;
+  width: 82px;
+  height: 110px;
+  padding: 14px 10px;
+  background:
+    radial-gradient(circle at 70% 28%, rgba(128, 79, 172, 0.22) 0 12%, transparent 13%),
+    linear-gradient(150deg, #f4eff8 0%, #ece5f2 100%);
+}
+
+.venue-mark--neurips img {
+  display: block;
+  width: 36px;
+  height: 36px;
 }
 
 .venue-mark--nature {
-  width: 96px;
-  height: 22px;
+  position: relative;
+  width: 82px;
+  height: 110px;
+  padding: 12px 9px;
+  overflow: hidden;
+  background:
+    linear-gradient(145deg, transparent 0 46%, rgba(0, 128, 161, 0.38) 47% 50%, transparent 51%),
+    linear-gradient(35deg, transparent 0 58%, rgba(227, 119, 70, 0.58) 59% 63%, transparent 64%),
+    linear-gradient(180deg, #e9f4f3 0%, #d9eceb 100%);
+}
+
+.venue-mark--nature img {
+  position: relative;
+  z-index: 1;
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .feature-copy h3,
