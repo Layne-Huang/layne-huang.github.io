@@ -386,21 +386,11 @@ p {
 }
 
 .venue-mark--neurips {
-  width: 82px;
-  height: 110px;
-  padding: 14px 10px;
-  background:
-    radial-gradient(circle at 70% 28%, rgba(128, 79, 172, 0.22) 0 12%, transparent 13%),
-    linear-gradient(150deg, #f4eff8 0%, #ece5f2 100%);
+  width: 174px;
+  height: auto;
 }
 
-.venue-mark--neurips img {
-  display: block;
-  width: 36px;
-  height: 36px;
-}
-
-.venue-mark--nature {
+.venue-mark--nc-cover {
   object-fit: cover;
 }
 
