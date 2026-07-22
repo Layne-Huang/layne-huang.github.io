@@ -349,6 +349,22 @@ p {
   padding-top: 0;
 }
 
+.work-list .feature-row {
+  grid-template-columns: minmax(148px, 0.24fr) minmax(0, 1fr) 164px;
+  column-gap: 26px;
+  row-gap: 0;
+  align-items: start;
+}
+
+.work-list .feature-row > .publication-visual {
+  grid-column: 3;
+  grid-row: 1;
+  width: 164px;
+  margin: 0;
+  align-self: start;
+  aspect-ratio: 3 / 2;
+}
+
 .publication-item > h3,
 .publication-item > p,
 .publication-item > .link-row {
@@ -386,7 +402,7 @@ p {
 }
 
 .venue-mark--neurips {
-  width: 174px;
+  width: min(100%, 164px);
   height: auto;
 }
 
@@ -469,12 +485,6 @@ p {
   width: 100%;
   height: 100%;
   object-fit: contain;
-}
-
-.feature-copy .publication-visual {
-  width: min(100%, 132px);
-  margin-top: 8px;
-  aspect-ratio: 3 / 2;
 }
 
 .subpage-hero {
@@ -730,6 +740,13 @@ pre {
     grid-template-columns: 1fr;
     gap: 12px;
     padding: 24px 0;
+  }
+
+  .work-list .feature-row > .publication-visual {
+    grid-column: 1;
+    grid-row: auto;
+    width: min(100%, 280px);
+    margin-top: 2px;
   }
 
   .publication-item > h3,

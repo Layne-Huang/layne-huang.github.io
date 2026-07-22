@@ -97,14 +97,14 @@ layout: homepage
       <div class="feature-copy">
         <h3>Single-cell multiregion epigenomic rewiring in Alzheimer's disease progression and cognitive resilience</h3>
         <p>Collaborative work on disease progression, cognitive resilience, and single-cell epigenomic regulation.</p>
-        <figure class="publication-visual publication-visual--cell">
-          <img src="./assets/img/papers/cell-ad-figure-1.jpg" alt="Overview of the Alzheimer's disease single-cell epigenomics study">
-          <figcaption>Figure 1 from Liu et al., <em>Cell</em> (2025), CC BY-NC-ND 4.0.</figcaption>
-        </figure>
         <div class="link-row">
           <a href="https://pubmed.ncbi.nlm.nih.gov/40752494/" target="_blank" rel="noopener">Paper</a>
         </div>
       </div>
+      <figure class="publication-visual publication-visual--cell">
+        <img src="./assets/img/papers/cell-ad-figure-1.jpg" alt="Overview of the Alzheimer's disease single-cell epigenomics study">
+        <figcaption>Figure 1 from Liu et al., <em>Cell</em> (2025), CC BY-NC-ND 4.0.</figcaption>
+      </figure>
     </article>
 
     <article class="feature-row">
@@ -116,14 +116,14 @@ layout: homepage
       <div class="feature-copy">
         <h3>A versatile informative diffusion model for single-cell ATAC-seq data generation and analysis</h3>
         <p>A generative framework for chromatin accessibility data, developed during my visiting scholar work with the Kellis Lab.</p>
-        <figure class="publication-visual publication-visual--wide">
-          <img src="./assets/img/papers/atac-diff-figure-1.png" alt="Overview of the ATAC-Diff framework">
-          <figcaption>Figure 1 from Huang et al., NeurIPS (2024).</figcaption>
-        </figure>
         <div class="link-row">
           <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/50d277e84b2bcbaadcd84548a87e8cc4-Abstract-Conference.html" target="_blank" rel="noopener">Paper</a>
         </div>
       </div>
+      <figure class="publication-visual publication-visual--wide">
+        <img src="./assets/img/papers/atac-diff-figure-1.png" alt="Overview of the ATAC-Diff framework">
+        <figcaption>Figure 1 from Huang et al., NeurIPS (2024).</figcaption>
+      </figure>
     </article>
 
     <article class="feature-row">
@@ -135,15 +135,15 @@ layout: homepage
       <div class="feature-copy">
         <h3>A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization</h3>
         <p>Target-pocket-conditioned molecular generation for structure-aware lead optimization.</p>
-        <figure class="publication-visual publication-visual--pmdm">
-          <img src="./assets/img/papers/pmdm-figure-1.png" alt="Overview of the PMDM target-conditioned molecular generation framework">
-          <figcaption>Figure 1 from Huang et al., <em>Nature Communications</em> (2024), CC BY 4.0.</figcaption>
-        </figure>
         <div class="link-row">
           <a href="https://www.nature.com/articles/s41467-024-46569-1" target="_blank" rel="noopener">Paper</a>
           <a href="https://github.com/Layne-Huang/PMDM/tree/main" target="_blank" rel="noopener">Code</a>
         </div>
       </div>
+      <figure class="publication-visual publication-visual--pmdm">
+        <img src="./assets/img/papers/pmdm-figure-1.png" alt="Overview of the PMDM target-conditioned molecular generation framework">
+        <figcaption>Figure 1 from Huang et al., <em>Nature Communications</em> (2024), CC BY 4.0.</figcaption>
+      </figure>
     </article>
   </div>
 </section>
