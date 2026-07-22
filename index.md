@@ -2,30 +2,51 @@
 layout: homepage
 ---
 
-<section class="home-hero" id="home">
-  <div class="hero-statement">
-    <p class="eyebrow">Research Fellow · MGH / Harvard Medical School</p>
-    <h1>Generative AI for drug design and single-cell biology.</h1>
-    <p class="lead">
-      I develop machine learning methods for high-throughput drug discovery, with a focus on de novo molecular design,
-      biological activity prediction, drug-target interaction annotation, and single-cell omics generation.
+<section class="about-intro" id="home" aria-labelledby="about-heading">
+  <div class="about-copy">
+    <p class="eyebrow">About</p>
+    <h2 id="about-heading">Lei Huang</h2>
+    <p>
+      I am a Research Fellow at Massachusetts General Hospital and Harvard Medical School, working in Prof.
+      <a href="http://ec2-3-220-229-138.compute-1.amazonaws.com/people/" target="_blank" rel="noopener">Luca Pinello's</a>
+      group. My work sits at the intersection of artificial intelligence, therapeutic discovery, and computational biology.
     </p>
     <p>
-      I am a Research Fellow in Prof. <a href="http://ec2-3-220-229-138.compute-1.amazonaws.com/people/" target="_blank" rel="noopener">Luca Pinello's</a>
-      group at Massachusetts General Hospital and Harvard Medical School. I received my PhD in Computer Science from
-      City University of Hong Kong, advised by Prof. <a href="http://www.cs.toronto.edu/~wkc/" target="_blank" rel="noopener">Ka-Chun Wong</a>,
-      and was a visiting scholar with Prof. <a href="http://compbio.mit.edu/" target="_blank" rel="noopener">Manolis Kellis</a>
-      at MIT and Prof. <a href="https://zitniklab.hms.harvard.edu/" target="_blank" rel="noopener">Marinka Zitnik</a> at Harvard.
+      I received my PhD in Computer Science from City University of Hong Kong, advised by Prof.
+      <a href="http://www.cs.toronto.edu/~wkc/" target="_blank" rel="noopener">Ka-Chun Wong</a>. I was previously a visiting scholar with Prof.
+      <a href="http://compbio.mit.edu/" target="_blank" rel="noopener">Manolis Kellis</a> at MIT and Prof.
+      <a href="https://zitniklab.hms.harvard.edu/" target="_blank" rel="noopener">Marinka Zitnik</a> at Harvard.
     </p>
-    <ul class="research-focus" aria-label="Research focus">
-      <li>De novo molecular design</li>
-      <li>Drug-target interaction modeling</li>
-      <li>Single-cell omics generation</li>
-    </ul>
     <div class="cta-row">
       <a class="button primary" href="./publications.html">Selected Publications</a>
       <a class="button" href="https://scholar.google.com/citations?user=xO1oupAAAAAJ&hl=zh-CN" target="_blank" rel="noopener">Google Scholar</a>
       <a class="button" href="mailto:lhuang34@mgh.harvard.edu">Contact</a>
+    </div>
+  </div>
+</section>
+
+<section class="apple-section" id="research">
+  <div class="section-label">
+    <p class="eyebrow">Research</p>
+    <h2>Building AI for programmable biology.</h2>
+  </div>
+  <div class="research-copy">
+    <p class="research-statement">
+      My long-term goal is to develop AI systems that make biology more computable, predictable, and actionable. I am particularly interested in generative and foundation models for molecular design and cellular systems, as well as emerging agentic approaches for scientific discovery.
+    </p>
+    <div class="research-areas" aria-label="Research areas">
+      <article>
+        <h3>Generative therapeutics</h3>
+        <p>Molecular and target-aware design for therapeutic discovery.</p>
+      </article>
+      <article>
+        <h3>Computational cell models</h3>
+        <p>Modeling cellular state, regulation, and perturbation from single-cell and multi-omic data.</p>
+      </article>
+      <article>
+        <h3>Agentic AI for science</h3>
+        <p>Exploring systems that connect biological hypotheses, data, and design decisions.</p>
+      </article>
     </div>
   </div>
 </section>
