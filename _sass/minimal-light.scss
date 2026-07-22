@@ -653,8 +653,13 @@ pre {
   }
 
   .profile-avatar {
-    height: 220px;
+    height: 250px;
     margin-bottom: 14px;
+  }
+
+  .profile-avatar img {
+    object-position: center 30%;
+    transform: none;
   }
 
   .profile-card h1 {

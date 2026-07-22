@@ -108,7 +108,7 @@ layout: homepage
       <h3>EGFI: Drug-Drug Interaction Extraction and Generation with Fusion of Enriched Entity and Sentence Information</h3>
       <p><strong>Lei Huang</strong>, Jiecong Lin, Xiangtao Li, Linqi Song, Zetian Zheng, Ka-Chun Wong</p>
       <figure class="publication-visual publication-visual--egfi">
-        <img src="./assets/img/papers/egfi-figure-1.png" alt="Overview of the EGFI extraction and generation framework for drug-drug interactions">
+        <img src="./assets/img/papers/egfi-figure-1.jpeg" alt="Overview of the EGFI extraction and generation framework for drug-drug interactions">
         <figcaption>Figure 1 from Huang et al., <em>Briefings in Bioinformatics</em> (2021).</figcaption>
       </figure>
       <div class="link-row"><a href="https://pubmed.ncbi.nlm.nih.gov/34791012/" target="_blank" rel="noopener">Paper</a></div>
