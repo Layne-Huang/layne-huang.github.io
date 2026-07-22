@@ -4,8 +4,7 @@ layout: homepage
 
 <section class="about-intro" id="home" aria-labelledby="about-heading">
   <div class="about-copy">
-    <p class="eyebrow">About</p>
-    <h2 id="about-heading">Lei Huang</h2>
+    <h2 id="about-heading">About</h2>
     <p>
       I am a Research Fellow at Massachusetts General Hospital and Harvard Medical School, working in Prof.
       <a href="http://ec2-3-220-229-138.compute-1.amazonaws.com/people/" target="_blank" rel="noopener">Luca Pinello's</a>
@@ -17,44 +16,33 @@ layout: homepage
       <a href="http://compbio.mit.edu/" target="_blank" rel="noopener">Manolis Kellis</a> at MIT and Prof.
       <a href="https://zitniklab.hms.harvard.edu/" target="_blank" rel="noopener">Marinka Zitnik</a> at Harvard.
     </p>
-    <div class="cta-row">
-      <a class="button primary" href="./publications.html">Selected Publications</a>
-      <a class="button" href="https://scholar.google.com/citations?user=xO1oupAAAAAJ&hl=zh-CN" target="_blank" rel="noopener">Google Scholar</a>
-      <a class="button" href="mailto:lhuang34@mgh.harvard.edu">Contact</a>
+    <div class="intro-links">
+      <a href="./publications.html">Selected publications</a>
+      <a href="https://scholar.google.com/citations?user=xO1oupAAAAAJ&hl=zh-CN" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="mailto:lhuang34@mgh.harvard.edu">Contact</a>
     </div>
   </div>
 </section>
 
 <section class="apple-section" id="research">
   <div class="section-label">
-    <p class="eyebrow">Research</p>
-    <h2>Building AI for programmable biology.</h2>
+    <h2>Research</h2>
   </div>
   <div class="research-copy">
     <p class="research-statement">
       My long-term goal is to develop AI systems that make biology more computable, predictable, and actionable. I am particularly interested in generative and foundation models for molecular design and cellular systems, as well as emerging agentic approaches for scientific discovery.
     </p>
-    <div class="research-areas" aria-label="Research areas">
-      <article>
-        <h3>Generative therapeutics</h3>
-        <p>Molecular and target-aware design for therapeutic discovery.</p>
-      </article>
-      <article>
-        <h3>Computational cell models</h3>
-        <p>Modeling cellular state, regulation, and perturbation from single-cell and multi-omic data.</p>
-      </article>
-      <article>
-        <h3>Agentic AI for science</h3>
-        <p>Exploring systems that connect biological hypotheses, data, and design decisions.</p>
-      </article>
-    </div>
+    <ul class="research-areas" aria-label="Research areas">
+      <li><strong>Generative therapeutics.</strong> Molecular and target-aware design for therapeutic discovery.</li>
+      <li><strong>Computational cell models.</strong> Modeling cellular state, regulation, and perturbation from single-cell and multi-omic data.</li>
+      <li><strong>Agentic AI for science.</strong> Exploring systems that connect biological hypotheses, data, and design decisions.</li>
+    </ul>
   </div>
 </section>
 
 <section class="apple-section" id="news">
   <div class="section-label">
-    <p class="eyebrow">News</p>
-    <h2>Recent updates.</h2>
+    <h2>News</h2>
   </div>
   <div class="timeline-list">
     <article>
@@ -90,8 +78,7 @@ layout: homepage
 
 <section class="apple-section" id="recent-work">
   <div class="section-label">
-    <p class="eyebrow">Recent Work</p>
-    <h2>Recent and representative publications.</h2>
+    <h2>Selected work</h2>
   </div>
   <div class="work-list">
     <article class="feature-row">
