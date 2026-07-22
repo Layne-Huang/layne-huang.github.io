@@ -374,6 +374,27 @@ p {
   color: var(--accent);
 }
 
+.venue-mark {
+  display: block;
+  margin-top: 10px;
+  object-fit: contain;
+}
+
+.venue-mark--cover {
+  width: 52px;
+  height: 68px;
+}
+
+.venue-mark--neurips {
+  width: 30px;
+  height: 30px;
+}
+
+.venue-mark--nature {
+  width: 96px;
+  height: 22px;
+}
+
 .feature-copy h3,
 .publication-item h3,
 .timeline-list h3,
@@ -452,8 +473,8 @@ p {
 }
 
 .feature-copy .publication-visual {
-  width: min(100%, 190px);
-  margin-top: 14px;
+  width: min(100%, 132px);
+  margin-top: 8px;
   aspect-ratio: 3 / 2;
 }
 

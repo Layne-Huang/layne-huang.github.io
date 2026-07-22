@@ -46,6 +46,13 @@ layout: homepage
   </div>
   <div class="timeline-list">
     <article>
+      <time>ISMB 2026</time>
+      <div>
+        <h3>Giving an oral talk at ISMB 2026.</h3>
+        <p><em>TFScope: Learning the DNA-binding specificity of transcription factors from protein sequence</em> will be presented in the RegSys Track.</p>
+      </div>
+    </article>
+    <article>
       <time>Jul 2025</time>
       <div>
         <h3>Our Alzheimer's single-cell epigenomics paper is published in <em>Cell</em>.</h3>
@@ -85,6 +92,7 @@ layout: homepage
       <div class="feature-meta">
         <span>Cell</span>
         <span>2025</span>
+        <img class="venue-mark venue-mark--cover" src="./assets/img/venues/cell-cover-v188-i19.jpg" alt="Cell journal cover">
       </div>
       <div class="feature-copy">
         <h3>Single-cell multiregion epigenomic rewiring in Alzheimer's disease progression and cognitive resilience</h3>
@@ -103,6 +111,7 @@ layout: homepage
       <div class="feature-meta">
         <span>NeurIPS</span>
         <span>2024</span>
+        <img class="venue-mark venue-mark--neurips" src="./assets/img/venues/neurips-logo.svg" alt="NeurIPS logo">
       </div>
       <div class="feature-copy">
         <h3>A versatile informative diffusion model for single-cell ATAC-seq data generation and analysis</h3>
@@ -121,6 +130,7 @@ layout: homepage
       <div class="feature-meta">
         <span>Nature Communications</span>
         <span>2024</span>
+        <img class="venue-mark venue-mark--nature" src="./assets/img/venues/nature-communications-logo.svg" alt="Nature Communications logo">
       </div>
       <div class="feature-copy">
         <h3>A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization</h3>
