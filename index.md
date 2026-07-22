@@ -132,9 +132,7 @@ layout: homepage
       <div class="feature-meta">
         <span>Nature Communications</span>
         <span>2024</span>
-        <div class="venue-mark venue-mark--nature" role="img" aria-label="Nature Communications journal mark">
-          <img src="./assets/img/venues/nature-communications-logo.svg" alt="">
-        </div>
+        <img class="venue-mark venue-mark--cover venue-mark--nature" src="./assets/img/venues/nature-communications-cover.png" alt="Nature Communications cover image">
       </div>
       <div class="feature-copy">
         <h3>A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization</h3>

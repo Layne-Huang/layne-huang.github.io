@@ -401,23 +401,7 @@ p {
 }
 
 .venue-mark--nature {
-  position: relative;
-  width: 82px;
-  height: 110px;
-  padding: 12px 9px;
-  overflow: hidden;
-  background:
-    linear-gradient(145deg, transparent 0 46%, rgba(0, 128, 161, 0.38) 47% 50%, transparent 51%),
-    linear-gradient(35deg, transparent 0 58%, rgba(227, 119, 70, 0.58) 59% 63%, transparent 64%),
-    linear-gradient(180deg, #e9f4f3 0%, #d9eceb 100%);
-}
-
-.venue-mark--nature img {
-  position: relative;
-  z-index: 1;
-  display: block;
-  width: 100%;
-  height: auto;
+  object-fit: cover;
 }
 
 .feature-copy h3,
