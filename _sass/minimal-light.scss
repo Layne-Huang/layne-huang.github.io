@@ -365,6 +365,12 @@ p {
   aspect-ratio: 3 / 2;
 }
 
+.work-list .feature-row > .publication-visual--cell,
+.work-list .feature-row > .publication-visual--pmdm {
+  width: 190px;
+  justify-self: end;
+}
+
 .work-list .feature-copy h3 {
   max-width: 820px;
 }
@@ -751,6 +757,11 @@ pre {
     grid-row: auto;
     width: min(100%, 280px);
     margin-top: 2px;
+  }
+
+  .work-list .feature-row > .publication-visual--cell,
+  .work-list .feature-row > .publication-visual--pmdm {
+    width: min(100%, 280px);
   }
 
   .publication-item > h3,
