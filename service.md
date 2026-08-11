@@ -24,7 +24,7 @@ layout: homepage
     </article>
     <article>
       <h3>Journal Reviewer</h3>
-      <p>Briefings in Bioinformatics, BioData Mining, BMC Bioinformatics, IEEE Transactions on Artificial Intelligence, IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Neural Networks and Learning Systems, Journal of Cheminformatics, Expert Systems with Applications, Neurocomputing, IEEE/ACM Transactions on Computational Biology and Bioinformatics, Patterns.</p>
+      <p>Briefings in Bioinformatics, BioData Mining, BMC Bioinformatics, IEEE Transactions on Artificial Intelligence, IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Neural Networks and Learning Systems, Journal of Cheminformatics, Expert Systems with Applications, Neurocomputing, IEEE/ACM Transactions on Computational Biology and Bioinformatics, Patterns, Advanced Intelligent Discovery, Clinical and Translational Medicine, Knowledge Based Systems.</p>
     </article>
   </div>
 </section>
